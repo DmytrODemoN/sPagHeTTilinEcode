@@ -4,7 +4,7 @@ One Line Spaghetti Code for robot_dreams.
 I took on Task 2:
 Create a one-line code that collects all the lost socks from the laundry, that is, finds the unique elements in the array and sorts them.
 
-The programming language is JavaScript. And in total, I got 35 words, 728 characters, of which 407 were spaces.
+The programming language is JavaScript. And in total, I got 35 words, 551 characters, of which 321 were spaces.
 
 Any JavaScipt compiler can be used to execute the code.
 
